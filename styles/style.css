@@ -1,11 +1,19 @@
-*,
-*::before,
-*::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {font-size:36PX;}
+body{background-color: rgb(215, 130, 19);}
+.Title{position: relative;
+     color: rgb(242, 240, 240) ;
+    left: 35vw;
 }
 
-body {
-    background-color: #000;
+.WatchDiv{color: rgb(42, 92, 218);
+    position: relative;
+   left: 39vw}
+   
+button{position: relative;
+    border-radius: 10PX;
+       color: rgb(239, 238, 238);
+       background-color: rgb(208, 150, 34);
+    left: 30vw
 }
+
+
