@@ -1,11 +1,7 @@
-* {font-size:36PX;}
+* {font-size:70PX;}
 body{background-color: rgb(215, 130, 19);}
-.Title{position: relative;
-     color: rgb(242, 240, 240) ;
-    left: 35vw;
-}
 
-.WatchDiv{color: rgb(42, 92, 218);
+span{color: rgb(42, 92, 218);
     position: relative;
    left: 39vw}
    
